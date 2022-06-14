@@ -1,8 +1,5 @@
 # Bike-Sharing-Demand-Prediction
-Seoul Bike Sharing Demand Prediction
-AlmaBetter Verfied Project - AlmaBetter School
-
-image
+ Bike Sharing Demand Prediction
 
 -----------------------------------------------------
 💾 Table of Content
